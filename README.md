@@ -10,5 +10,10 @@ Requirements
 Node.js (version – 18.14.0)
 Metamask
 Python (version – 3.9)
-FastAPI
+FastAPI!
 MySQL Database (port – 3306)
+[admin ss](https://github.com/user-attachments/assets/2a69cac4-ce93-488f-801d-8f63182bd3e7)
+
+
+[index ss](https://github.com/user-attachments/assets/dd789eb9-d06d-4929-a215-11e8c001291e)
+[login ss](https://github.com/user-attachments/assets/4a18bce1-b577-491e-b65b-a414dc5b0a29)
